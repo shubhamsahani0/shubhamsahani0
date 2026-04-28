@@ -6,7 +6,7 @@
         Currently transforming complex numbers into clear stories 📊<br>
         Open to collaboration on SQL, Excel, and Power BI dashboards.<br>
     </i><br>
-    <a href="shubhamsahani-portfolio-snowy.vercel.app">    
+    <a href="https://shubhamsahani-portfolio-snowy.vercel.app/">    
         <img src="https://img.shields.io/badge/My_Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
     </a>
     <a href="https://linkedin.com/in/shubham-sahani-b1088925a/">
